@@ -61,4 +61,5 @@ typings/
 
 config
 .idea
-!/config/secret.js
+
+ret.js
